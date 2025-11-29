@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Hierro",
+    "description": "Un metal resistente y duradero usado para fabricar objetos basicos."
+  },
+  {
+    "id": 2,
+    "name": "Cobre",
+    "description": "Un metal conductor utilizado en la creacion de componentes electricos."
+  },
+  {
+    "id": 3,
+    "name": "Plata",
+    "description": "Un metal valioso muy util en la elaboracion de diversos objetos."
+  },
+  {
+    "id": 4,
+    "name": "Oro",
+    "description": "Un metal precioso empleado para fabricar objetos de alta calidad."
+  }
+]

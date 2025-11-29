@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Poké Ball",
+    "description": "Una Poké Ball estándar que se utiliza para capturar Pokémon salvajes.",
+    "buyPrice": 200,
+    "sellPrice": 100,
+    "craftingMaterials": [
+      {
+        "id": 1,
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "quantity": 1
+      }
+    ],
+    "captureRate": 1.0
+  },
+  {
+    "id": 2,
+    "name": "Super Ball",
+    "description": "Una Poké Ball mejorada que proporciona un mayor índice de captura.",
+    "buyPrice": 600,
+    "sellPrice": 300,
+    "craftingMaterials": [
+      {
+        "id": 1,
+        "quantity": 3
+      },
+      {
+        "id": 3,
+        "quantity": 1
+      }
+    ],
+    "captureRate": 1.5
+  },
+  {
+    "id": 3,
+    "name": "Ultra Ball",
+    "description": "Una Poké Ball de alto rendimiento con un índice de captura muy superior.",
+    "buyPrice": 1200,
+    "sellPrice": 600,
+    "craftingMaterials": [
+      {
+        "id": 1,
+        "quantity": 3
+      },
+      {
+        "id": 4,
+        "quantity": 2
+      }
+    ],
+    "captureRate": 2.0
+  }
+]
