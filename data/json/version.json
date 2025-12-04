@@ -1,0 +1,8 @@
+{
+  "name": "Pokemon Rebron",
+  "version": "0.0.1",
+  "tag": "0.0.1",
+  "description": "Initial development build for internal testing.",
+  "release_date": "03/12/2025",
+  "notes": "Base structure, updater integration, and core systems initialized."
+}
