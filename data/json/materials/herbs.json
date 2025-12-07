@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Hierba Verde",
+    "description": "Una hierba medicinal común que se encuentra en praderas.",
+    "rarity": 1,
+    "buyPrice": 20,
+    "sellPrice": 5
+  },
+  {
+    "id": 2,
+    "name": "Hierba Roja",
+    "description": "Una hierba muy aromática con propiedades curativas.",
+    "rarity": 2,
+    "buyPrice": 40,
+    "sellPrice": 10
+  }
+]

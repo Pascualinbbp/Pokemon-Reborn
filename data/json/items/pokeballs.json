@@ -7,10 +7,12 @@
     "sellPrice": 100,
     "craftingMaterials": [
       {
+        "type": "metal",
         "id": 1,
         "quantity": 2
       },
       {
+        "type": "metal",
         "id": 2,
         "quantity": 1
       }
@@ -25,10 +27,12 @@
     "sellPrice": 300,
     "craftingMaterials": [
       {
+        "type": "metal",
         "id": 1,
         "quantity": 3
       },
       {
+        "type": "metal",
         "id": 3,
         "quantity": 1
       }
@@ -43,10 +47,12 @@
     "sellPrice": 600,
     "craftingMaterials": [
       {
+        "type": "metal",
         "id": 1,
         "quantity": 3
       },
       {
+        "type": "metal",
         "id": 4,
         "quantity": 2
       }

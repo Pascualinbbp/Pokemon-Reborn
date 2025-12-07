@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Poción",
+    "description": "Restaura 20 HP del Pokémon.",
+    "buyPrice": 300,
+    "sellPrice": 150,
+    "heal": 20,
+    "craftingMaterials": [
+      {
+        "type": "herb",
+        "id": 1,
+        "quantity": 2
+      },
+      {
+        "type": "herb",
+        "id": 2,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Super Poción",
+    "description": "Restaura 50 HP del Pokémon.",
+    "buyPrice": 700,
+    "sellPrice": 350,
+    "heal": 50,
+    "craftingMaterials": [
+      {
+        "type": "herb",
+        "id": 1,
+        "quantity": 3
+      },
+      {
+        "type": "herb",
+        "id": 2,
+        "quantity": 2
+      }
+    ]
+  }
+]
