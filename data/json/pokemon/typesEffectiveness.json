@@ -1,0 +1,21 @@
+[
+    { "strongAgainst": [2, 7, 12], "weakAgainst":   [3, 5, 14], "immuneAgainst": 1 },
+    { "strongAgainst": [0, 14, 17], "weakAgainst":   [7, 9, 12], "immuneAgainst": 2 },
+    { "strongAgainst": [1, 7, 12], "weakAgainst":   [2, 5, 6], "immuneAgainst": 0 },
+    { "strongAgainst": [0, 8, 11], "weakAgainst":   [1, 5, 6], "immuneAgainst": 12 },
+    { "strongAgainst": [], "weakAgainst":   [], "immuneAgainst": -1 },
+    { "strongAgainst": [2, 3, 5], "weakAgainst":   [7, 11, 16], "immuneAgainst": 17 },
+    { "strongAgainst": [2, 3, 18], "weakAgainst":   [8, 12, 16], "immuneAgainst": 7 },
+    { "strongAgainst": [1, 5, 6], "weakAgainst":   [0, 2, 14], "immuneAgainst": 18 },
+    { "strongAgainst": [11, 13, 16], "weakAgainst":   [0, 3, 10], "immuneAgainst": 15 },
+    { "strongAgainst": [1, 14, 15], "weakAgainst":   [10, 16, 18], "immuneAgainst": 9 },
+    { "strongAgainst": [9, 12, 14], "weakAgainst":   [15, 17, 18], "immuneAgainst": 13 },
+    { "strongAgainst": [5, 13, 17], "weakAgainst":   [3, 7, 8], "immuneAgainst": 16 },
+    { "strongAgainst": [3, 6, 18], "weakAgainst":   [0, 2, 13], "immuneAgainst": 10 },
+    { "strongAgainst": [8, 13, 16], "weakAgainst":   [11, 15, 17], "immuneAgainst": 3 },
+    { "strongAgainst": [0, 7, 18], "weakAgainst":   [1, 9, 10], "immuneAgainst": 11 },
+    { "strongAgainst": [8, 10, 15], "weakAgainst":   [6, 9, 17], "immuneAgainst": 14 },
+    { "strongAgainst": [6, 9, 11], "weakAgainst":   [13, 15, 18], "immuneAgainst": 8 },
+    { "strongAgainst": [10, 15, 17], "weakAgainst":   [1, 8, 11], "immuneAgainst": 5 },
+    { "strongAgainst": [9, 10, 16], "weakAgainst":   [12, 13, 14], "immuneAgainst": 6 }
+]
